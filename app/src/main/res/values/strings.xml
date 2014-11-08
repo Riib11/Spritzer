@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spritzer</string>
+    <string name="title_section1">Read</string>
+    <string name="title_section2">Camera</string>
+    <string name="title_section3">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="touch_to_start">Touch to Start</string>
+
+
+    <!-- Sample Text for Each Fragment :) -->
+    <string name="activity_main_text"></string>
+    <string name="fragment_read_text"></string>
+    <string name="fragment_documents_text"></string>
+    <string name="fragment_camera_text"></string>
+    <string name="fragment_import_text"></string>
+    <string name="fragment_settings_text"></string>
+    <string name="fragment_about_text"></string>
+
+    <!-- Read Strings -->
+
+
+    <!-- Documents Strings -->
+    <string name="textViewChooseFile">Choose a File</string>
+    <string name="buttonTextRead">Read</string>
+    <string name="unsupported_file">Unsupported file.</string>
+    <string name="set_wpm">Set WPM</string>
+    <string name="theme">Toggle Light/Dark Theme</string>
+    <string name="open_epub">Open epub</string>
+
+
+    <!-- Camera Strings -->
+
+
+    <!-- Import Strings -->
+
+
+    <!-- Settings Strings -->
+
+
+    <!-- About Strings -->
+    <string name="textViewAboutText">"
+    This app was originally created for the House App Challenge by the following people:
+
+    Henry Blanchette - Chief Programmer
+    Alex Ditzel - Head of Design
+    David Pearl - Head of R&amp;D
+
+
+
+    This app could not have been created without code from OpenSpritz by David Brodsky.
+    This app utilizes the OCR provided by ABBYY and was made with the SDK they generously provide to developers.
+
+
+    Additionally, the app was supported by the following people:
+
+    Luke Ditzel - Helped to create videos to show the app
+    Omar Alcozai - Helped to create the app icon
+    Andrew Zucker - Actor and created Demo Video"</string>
+
+
+
+
+    <string name="loading">Loading…</string>
+    <string name="select_chapter">Select Chapter</string>
+    <string name="dialog_donate_msg">Open Source developers turn love and money from their community into honest, quality software. Buy us a beer or contribute code to this project!</string>
+    <string name="dialog_donate_title">Show some Love?</string>
+    <string name="dialog_donate_positive_btn">Donate Money!</string>
+    <string name="dialog_donate_neutral_btn">Contribute Code!</string>
+    <string name="dialog_donate_complete_title">You Rock.</string>
+    <string name="dialog_donate_complete_positive_btn">I know</string>
+    <string name="select_epub">Touch to Select .epub</string>
+    <string name="title_activity_results">Results</string>
+
+
+</resources>

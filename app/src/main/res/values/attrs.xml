@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpritzerTextView">
+        <attr name="clickControls" format="boolean" />
+    </declare-styleable>
+    <integer name="spritz_history_line_count">2</integer>
+</resources>

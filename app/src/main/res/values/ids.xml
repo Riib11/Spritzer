@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_speed" type="id" />
+    <item name="author" type="id" />
+    <item name="chapter" type="id" />
+    <item name="spritzHistory" type="id" />
+</resources>

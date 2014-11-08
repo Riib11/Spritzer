@@ -1,0 +1,29 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/textViewChooseFile"
+        android:id="@+id/textViewChooseFile"
+        android:layout_gravity="center_horizontal" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="379dp"
+        android:id="@+id/listViewDocuments"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonTextRead"
+        android:id="@+id/buttonRead"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
